@@ -1,2 +1,4 @@
 hello there how are you?
 this is new branch
+this is edited in new1 branch
+this branch is based on new branch, it takes the copy of new branch not the main branch.
